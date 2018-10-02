@@ -8,7 +8,6 @@ import datetime as dt
 from matplotlib import style
 
 
-
 style.use('fivethirtyeight')
 
 def graph_data():
